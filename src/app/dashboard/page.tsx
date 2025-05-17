@@ -2,7 +2,7 @@
 
 import Sidebar from "@/components/ui/sidebar";
 
-function page() {
+function dashboard() {
   return (
    <>
    <div className="flex min-h-screen bg-gray-50">
@@ -81,4 +81,4 @@ function page() {
   )
 }
 
-export default page
+export default dashboard;
